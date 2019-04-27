@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("img/wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.title {
+    color: white;
+    font-family: 'Noto Serif JP', serif;
+    /* text-align: center; */
+    margin-left: 30vw;
+    margin-top: 12px;
+
+}
